@@ -10,3 +10,7 @@
 - [Question-Driven Thinking in Practice](chapter-04-practice.md)
 - [Questions at Scale](chapter-05-scale.md)
 - [Building the Habit](chapter-06-habit.md)
+
+---
+
+[Acknowledgements](acknowledgements.md)
