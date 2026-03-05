@@ -1,0 +1,17 @@
+[book]
+title = "Asking the Right Questions"
+authors = ["CloudStreet"]
+description = "A practical guide to question-driven thinking — how to find the questions worth asking, why most people never do, and how to develop the habit of asking what nobody else thought to ask."
+src = "src"
+language = "en"
+
+[output.html]
+site-url = "/Asking-the-Right-Questions/"
+git-repository-url = "https://github.com/cloudstreet-dev/Asking-the-Right-Questions"
+edit-url-template = "https://github.com/cloudstreet-dev/Asking-the-Right-Questions/edit/main/{path}"
+default-theme = "coal"
+preferred-dark-theme = "coal"
+
+[output.html.fold]
+enable = true
+level = 1
